@@ -1,0 +1,8 @@
+main.py
+pyproject.toml
+student_app.egg-info/PKG-INFO
+student_app.egg-info/SOURCES.txt
+student_app.egg-info/dependency_links.txt
+student_app.egg-info/entry_points.txt
+student_app.egg-info/requires.txt
+student_app.egg-info/top_level.txt

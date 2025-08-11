@@ -1,0 +1,2 @@
+[console_scripts]
+merge-rooms = student_app.main:main
